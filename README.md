@@ -16,4 +16,5 @@ A simple 2-player Tic Tac Toe game in Java played through the console. Players t
 1. Open a terminal in the folder where `TicTacToe.java` is saved
 2. Compile the code:
    ```bash
+   
    javac TicTacToe.java
